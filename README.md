@@ -1,6 +1,6 @@
 # Maths Creative Work
 
-A small interactive website for my `MATHS108` creative project.
+A small interactive website for my `MATHS102` creative project.
 
 This piece reflects on my changing relationship with maths, from early confidence, to time away from it, to returning with more purpose. Instead of being just a written reflection, it presents that story through a clean visual layout and a simple calculus interaction.
 
@@ -24,10 +24,6 @@ The goal of this project is to show that maths is not just formulas and answers.
 ## How To View It
 
 Open [`index.html`](/Users/jotinderbhamra/maths-creative-work/index.html) in a browser and interact with the slider in the graph section.
-
-## Note
-
-The page content currently says `MATHS102` in a few places, even though this README is written for `MATHS108`.
 
 ## Author
 
